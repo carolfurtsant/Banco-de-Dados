@@ -17,4 +17,4 @@ NACIONALIDADE varchar (20) default 'Brasil',
 primary key (id) -- chave primária
 )default charset = utf8;
 
-describe pessoas
+describe pessoas; -- descrever
